@@ -1,4 +1,4 @@
-# Gatekkeper Two
+# Gatekeeper Two
 
 ## Challenge
 
